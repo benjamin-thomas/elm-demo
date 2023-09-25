@@ -8,5 +8,5 @@ main =
     Browser.sandbox
         { init = {}
         , update = \_ _ -> {}
-        , view = \_ -> Html.h1 [] [ Html.text "Live on Github Pages!" ]
+        , view = \_ -> Html.h1 [] [ Html.text "Live on Github Pages! (2)" ]
         }
